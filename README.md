@@ -6,7 +6,7 @@
 
 👩‍💻 Estou em transição de carreira. Sou mestre em Engenharia de Alimentos pela [UNICAMP](https://www.posgraduacao.fea.unicamp.br/?q=node/6) e trabalhei por 12 anos na área de saúde, como nutricionista e professora universitária, onde liderava equipes, realizava planejamento estratégico, além de desenvolver minhas habilidades de ensino e pesquisa, que auxiliam muito na visão macro de novos projetos
 
-📚 Me descobri como uma entusiasta da TI quando percebi que os principais entraves que lidava em minha rotina poderiam ser resolvidos com tecnologia, então como uma boa *lifelong learning*, decidi que era o momento de pensar em novos caminhos profissionais
+📚 Me descobri como uma entusiasta da TI quando percebi que os principais entraves que lidava em minha rotina poderiam ser resolvidos com tecnologia, então como uma boa *lifelong learner*, decidi que era o momento de pensar em novos caminhos profissionais
 
 🧠 Estou aprendendo sobre AWS, Kanban, Scrum, SQL  e Java
 
