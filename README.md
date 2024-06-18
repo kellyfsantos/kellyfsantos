@@ -8,7 +8,9 @@
 
 📚 Me descobri como uma entusiasta da TI quando percebi que os principais entraves que lidava em minha rotina poderiam ser resolvidos com tecnologia, então como uma boa *lifelong learner*, decidi que era o momento de pensar em novos caminhos profissionais
 
-🧠 Estou aprendendo sobre AWS, Kanban, Scrum, SQL  e Java
+🦄 Linguagens: Python, SQL
+
+🧠 Áreas de interesse: análise de dados, data science, machine learning
 
 👯‍♀️ Como sempre trabalhei em equipes, adoro desenvolver trabalhos colaborativos
 
@@ -50,5 +52,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
