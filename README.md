@@ -34,7 +34,7 @@
 
 ## 🛠 Habilidades
 
-<div> 
+
   
 <a href="[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)"></a> 
 
@@ -58,4 +58,4 @@
 
 <a href="![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)"></a>
 
-</div>
+
