@@ -4,7 +4,7 @@
 ## Um pouco sobre mim
 👩‍🎓 Atualmente estudo Gestão de TI na [PUC-MINAS](https://www.pucminas.br/destaques/Paginas/default.aspx?lang=en%2F%3Fp%3D7625&gad_source=1&gclid=Cj0KCQjw6PGxBhCVARIsAIumnWaLYcdfcc7PjF6J_PX6Vua8T1g8b-921TWs_FLSdw-FojbGot2NL6AaAtflEALw_wcB) 
 
-👩‍💻 Coordenadora adminsitrativa analítica na Tecla T - Hapvida, elaboro painés interativos para monitoramentos estratégicos e tratamento de banco de dados para migração de sistema de gestão.
+👩‍💻 Coordenadora adminsitrativa analítica na Tecla T - Hapvida. Elaboro painés interativos para monitoramentos estratégicos e tratamento de banco de dados para migração de sistema de gestão.
 
 👩‍💻 Trabalhei por 14 anos na área de saúde, como nutricionista e professora universitária, onde liderava equipes, realizava planejamento estratégico, além de desenvolver minhas habilidades de ensino e pesquisa, que auxiliam muito na visão macro de novos projetos.
 
